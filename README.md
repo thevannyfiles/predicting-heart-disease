@@ -1,1 +1,1 @@
-# predicting-heart-disease
+# Predicting Heart Disease
